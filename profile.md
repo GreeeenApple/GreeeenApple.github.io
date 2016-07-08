@@ -19,4 +19,4 @@ Age: 18
 ### 連絡先
 
 [greenapple.null@gmail.com](mailto:greenapple.null@gmail.com)  
-[Twitter @gr33n4pp13](https://twitter.com/gr33n4pp13)  
+[@gr33n4pp13](https://twitter.com/gr33n4pp13)  
