@@ -4,7 +4,7 @@ title: Profile
 permalink: /profile/
 ---
 
-### about
+### Profile
 
 HN: greenapple  
 Age: 18  
@@ -14,7 +14,7 @@ Age: 18
 [第11回情報危機管理コンテスト 優勝 (fukuitech)](http://www.riis.or.jp/symposium20/crisismanagement/purpose/)  
 [security-camp 2016 全国大会](http://www.security-camp.org/)  
 
-### contact me
+### Contact me
 
 [Mail](mailto:greenapple.null@gmail.com)  
 [Twitter](https://twitter.com/gr33n4pp13)  
