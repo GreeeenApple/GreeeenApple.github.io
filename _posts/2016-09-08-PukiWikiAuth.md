@@ -12,6 +12,8 @@ PukiWikiで閲覧許可を与えられていないページを見るというこ
 
 との記述があるので既出です。
 
+検証環境は、VMwareでUbuntu14.04LTSの上にPukiWiki-1.5.1_utf8入れてホスト側から接続です  
+
 まず、PukiWikiを入れる  
 参考:[Ubuntu14.04にPukiwiki1.5.0をインストールする by @tuneyukkie on @Qiita](http://qiita.com/tuneyukkie/items/e7565fb0856e6a9f517d)  
 ![install]({{site.baseurl}}/images/20160908/install.png)  
