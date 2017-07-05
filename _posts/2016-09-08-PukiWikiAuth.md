@@ -5,6 +5,8 @@ title: PukiWikiの認可辺りについて
 
 PukiWikiで閲覧許可を与えられていないページを見るということをやってみる  
 
+修正されてたっぽい [BugTrack](http://pukiwiki.osdn.jp/dev/?BugTrack/598)  
+
 [PukiWiki/1.4/ちょっと便利に/任意のページごとの閲覧・編集制限](http://pukiwiki.osdn.jp/dev/?PukiWiki/1.4/%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E4%BE%BF%E5%88%A9%E3%81%AB/%E4%BB%BB%E6%84%8F%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%94%E3%81%A8%E3%81%AE%E9%96%B2%E8%A6%A7%E3%83%BB%E7%B7%A8%E9%9B%86%E5%88%B6%E9%99%90)
 このリンクの中に
 
@@ -45,4 +47,4 @@ hogehogeを閲覧するために、新規からページを新しく作成
 
 
 [BugTrack/598](http://pukiwiki.osdn.jp/dev/?BugTrack/598)  ここにこれについての記述がありますね  
-デフォルトで対応していない?のはなんだろ...  
+デフォルトで対応していない?のはなんだろ...  
