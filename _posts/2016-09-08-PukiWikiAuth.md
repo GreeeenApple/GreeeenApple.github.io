@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PukiWikiのAuth辺りについて
+title: PukiWikiの認可辺りについて
 ---
 
 PukiWikiで閲覧許可を与えられていないページを見るということをやってみる  
