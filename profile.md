@@ -7,8 +7,7 @@ permalink: /profile/
 ### 人
 
 HN: greenapple  
-(´∀｀∩)↑age↑: 19  
-CTF Team: vuls　
+(´∀｀∩)↑age↑: 20  
 
 ### 活動
 
